@@ -3,9 +3,9 @@
 openshift: 内存设置为256M，每 project 可配置 4 Pods。
 
 
-
 Docker 镜像搜索：doudoubing/cundang
 （fork于wangyi2005/v2ray修改前）
+
 
 环境变量： CONFIG_JSON（配置）、
 
